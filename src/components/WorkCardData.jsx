@@ -6,19 +6,19 @@ const ProjectCardData = [
   {
     imgsrc: pro1,
     title: "Dice Game",
-    text: "hbsjdahjsbjhdbjbsajdhbajsdbjhsbdjhabsdjhbsahbdhsbdhbjhbdjhsbjh",
+    text: "hbsjdahjsbjhdbjbsajdhbajsdbjhsbdjhabsdjhbsahb",
     view: "https://dice-game-szht.onrender.com/",
   },
   {
     imgsrc: pro1,
     title: "Dice Game",
-    text: "hbsjdahjsbjhdbjbsajdhbajsdbjhsbdjhabsdjhbsahbdhsbdhbjhbdjhsbjh",
+    text: "hbsjdahjsbjhdbjbsajdhbajsdbjhsbdjha",
     view: "https://dice-game-szht.onrender.com/",
   },
   {
     imgsrc: pro1,
     title: "Dice Game",
-    text: "hbsjdahjsbjhdbjbsajdhbajsdbjhsbdjhabsdjhbsahbdhsbdhbjhbdjhsbjh",
+    text: "hbsjdahjsbjhdbjbsajdhbajsdbjhsbdjhabsd",
     view: "https://dice-game-szht.onrender.com/",
   },
 ];

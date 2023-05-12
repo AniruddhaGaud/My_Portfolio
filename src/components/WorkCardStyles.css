@@ -43,12 +43,19 @@
     padding: 0.5rem 1rem;
 }
 
+.pro-details p {
+    word-wrap: break-word;
+}
+
 @media screen and (max-width:740px) {
     .project-container {
         max-width: 90%;
         margin: auto;
         grid-template-columns: 1fr;
+        width: 90vw;
     }
 
-
+    .project-card {
+        width: 90vw;
+    }
 }
