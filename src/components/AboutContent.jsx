@@ -1,5 +1,6 @@
 import "./AboutContentStyles.css";
-import { Link } from "react-router-dom";
+import resume from "../assets/Ani_Frontend.pdf";
+// import { Link } from "react-router-dom";
 import React1 from "../assets/react1.jpg";
 import React2 from "../assets/react2.webp";
 
@@ -12,9 +13,12 @@ const AboutContent = () => {
           Im a React Front-End Developer. I create reponsive and secure
           websites.
         </p>
-        <Link to="/contact">
-          <button className="btn">Contact</button>
-        </Link>
+        {/* <Link to="/contact">
+          <button className="btn">Resume</button>
+        </Link> */}
+        <a href={resume} target="_blank" rel="noreferrer">
+          <button className="btn">Resume</button>
+        </a>
       </div>
 
       <div className="right">
