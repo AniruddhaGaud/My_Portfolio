@@ -8,7 +8,7 @@ const ProjectCardData = [
     title: "My Portfolio",
     text: "Personal webpage build with React Fully Responsive",
     view: "/",
-    source: "https://github.com/AniruddhaGaud/Travel_Blog",
+    source: "https://github.com/AniruddhaGaud/My_Portfolio",
   },
   {
     imgsrc: pro2,
