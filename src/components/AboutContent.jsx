@@ -1,5 +1,5 @@
 import "./AboutContentStyles.css";
-import resume from "../assets/React_resume.pdf";
+import resume from "../assets/Resume2.pdf";
 // import { Link } from "react-router-dom";
 import React1 from "../assets/react1.jpg";
 import React2 from "../assets/react2.webp";
